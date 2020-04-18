@@ -1,0 +1,2 @@
+# Support-Vector-Regression
+SVR or Support Vector Regression is a regression technique developed from the classic classification method of SVM. Here, I have implemented 2 models of SVR. The first being epsilon-SVR which minimizes the regularized MSE for regression. The second being the RHSVM, which converts the regression problem into that of classification in the Wolfe Dual space by introducting a new dimension using the labels.
